@@ -2,7 +2,7 @@
 Deep learning stuff using Neural Networks.
 
 
-All neural network implementations in this repository are Convolutional Neural Networks(CNNs) implemented with Keras.
+All neural network implementations in this repository are Convolutional Neural Networks(CNNs) implemented using Keras.
 
 
 cnn6 and cnn7 are CNNs for Mini-Imagenet
